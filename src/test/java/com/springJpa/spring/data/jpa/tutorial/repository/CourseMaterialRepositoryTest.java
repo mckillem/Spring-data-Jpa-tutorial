@@ -19,7 +19,7 @@ class CourseMaterialRepositoryTest {
 
 		Course course = Course
 				.builder()
-				.title("O hovně")
+				.title("JS")
 				.credit(45)
 				.build();
 
